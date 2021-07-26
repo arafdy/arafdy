@@ -14,6 +14,10 @@ I really love to build things in the terms of electrical and software design
 
 I'm best reached via [LinkedIn](https://www.linkedin.com/in/rafdy-amestira-097693122/) and I love to meet new friends! So, please feel free to reach me if you have any topics to be discussed or interesting projects collaboration.
 
+here's gopher to made ur day
+
+<img src="https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/waving_gopher_blue.png">
+
 
 
 <!--
