@@ -16,7 +16,7 @@ I'm best reached via [LinkedIn](https://www.linkedin.com/in/rafdy-amestira-09769
 
 here's gopher to made ur day
 
-<img src="https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/waving_gopher_blue.png">
+<img width="300" src="https://kevalpatel2106.files.wordpress.com/2017/01/go_lang_mascot_by_kirael_art-d7kunhu.gif?w=375&h=375&crop=1">
 
 
 
