@@ -1,3 +1,6 @@
+
+<img align="right" width="200" src="https://kevalpatel2106.files.wordpress.com/2017/01/go_lang_mascot_by_kirael_art-d7kunhu.gif?w=375&h=375&crop=1">
+
 ### Hi Rafdy's here <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 I'm a enthusiast progammer from Indonesia who always hungry for new knowledge.
@@ -16,5 +19,5 @@ I'm best reached via [LinkedIn](https://www.linkedin.com/in/rafdy-amestira-09769
 
 here's gopher to made ur day
 
-<img width="300" src="https://kevalpatel2106.files.wordpress.com/2017/01/go_lang_mascot_by_kirael_art-d7kunhu.gif?w=375&h=375&crop=1">
+
 
