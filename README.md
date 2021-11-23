@@ -3,6 +3,9 @@
 
 ### Hi Rafdy's here <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
+<p><em>Business & Integration Arch Analyst at <a href="https://www.accenture.com">Accenture</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
 I'm a enthusiast progammer from Indonesia who always hungry for new knowledge.
 I really love to build things in the terms of electrical and software design
 
