@@ -6,11 +6,16 @@
 <p><em>Business & Integration Arch Analyst at <a href="https://www.accenture.com">Accenture</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+👇 Hit in your console or terminal to connect with me.
+```bash
+npx rafdy
+```
+
 I'm a enthusiast progammer from Indonesia who always hungry for new knowledge.
 I really love to build things in the terms of electrical and software design
 
 
-🔭 I’m currently working as IoT developer at startup company on Jakarta
+🔭 I’m currently working on IT service and consulting in indonesia
 
 🌱 Outside of work, I love to spend my time learn fullstack web development (Go, React, vue) to become a fullstack engineer. during my freetime i enjoy explore data science included machine learning and deep learning.
  
