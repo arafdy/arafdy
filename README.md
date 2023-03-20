@@ -21,11 +21,11 @@ I really love to build things in the terms of electrical and software design
  
  I also love to spend my spare time doing my hobbies: watching movies, read manga and conducting side-project
 
-😄 You can learn more about me in my [Rafdy Portfolio](https://arafdy.github.io/).
+😄 You can learn more about me in my [Rafdy Portfolio](https://arafdy.github.io/rafdy).
 
 I'm best reached via [LinkedIn](https://www.linkedin.com/in/rafdy-amestira-097693122/) and I love to meet new friends! So, please feel free to reach me if you have any topics to be discussed or interesting projects collaboration.
 
-here's gopher to made ur day
+here's mai-san to made ur day
 
-
+<img src="https://i.pinimg.com/originals/3f/e6/46/3fe646098466da16f5d2ed27d5e82b03.gif"> 
 
