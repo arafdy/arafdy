@@ -6,6 +6,8 @@
 <p><em>Business & Integration Arch Analyst at <a href="https://www.accenture.com">Accenture</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<img width="300px" src="https://i.pinimg.com/originals/3f/e6/46/3fe646098466da16f5d2ed27d5e82b03.gif"> 
+
 👇 Hit in your console or terminal to connect with me.
 ```bash
 npx rafdy
@@ -25,7 +27,4 @@ I really love to build things in the terms of electrical and software design
 
 I'm best reached via [LinkedIn](https://www.linkedin.com/in/rafdy-amestira-097693122/) and I love to meet new friends! So, please feel free to reach me if you have any topics to be discussed or interesting projects collaboration.
 
-here's mai-san to made ur day
-
-<img src="https://i.pinimg.com/originals/3f/e6/46/3fe646098466da16f5d2ed27d5e82b03.gif"> 
 
